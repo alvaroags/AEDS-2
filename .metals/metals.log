@@ -1,0 +1,25 @@
+2023.04.06 21:37:31 INFO  Started: Metals version 0.11.11 in workspace 'C:\Users\alvar\Documents\Programação\AEDS-2' for client Visual Studio Code 1.77.0.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/alvar/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.06 21:37:32 INFO  time: initialize in 0.82s
+2023.04.06 21:37:32 WARN  Build server is not auto-connectable.
+2023.04.06 21:37:32 WARN  no build tool detected in workspace 'C:\Users\alvar\Documents\Programação\AEDS-2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+abr 07, 2023 8:57:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAÇÕES: Unsupported notification method: $/setTrace
+abr 07, 2023 8:57:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAÇÕES: Unsupported notification method: $/setTrace
+abr 07, 2023 8:57:48 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAÇÕES: Unsupported notification method: $/setTrace
+abr 07, 2023 8:57:54 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAÇÕES: Unsupported notification method: $/setTrace
+abr 07, 2023 9:03:23 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAÇÕES: Unsupported notification method: $/setTrace
+abr 07, 2023 9:08:51 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAÇÕES: Unsupported notification method: $/setTrace
+2023.04.07 10:13:55 INFO  Shutting down server
+2023.04.07 10:13:55 INFO  shutting down Metals
+2023.04.07 10:13:55 INFO  Exiting server
